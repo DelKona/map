@@ -1,0 +1,3255 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Agropur",
+        "Province": "Quebec",
+        "Ville": "Saint-Hubert",
+        "Coques de grains": "Coques de grains",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "",
+        "Graisses": "",
+        "Matieres seches": "",
+        "Restes de nourriture": "",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4333,
+          45.5167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Olymel",
+        "Province": "Quebec",
+        "Ville": "Saint-Esprit",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "Matieres seches",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5333,
+          45.8333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Les Aliments Olymel",
+        "Province": "Quebec",
+        "Ville": "Quebec",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "Matieres seches",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.25,
+          46.8333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Les Aliments Premier",
+        "Province": "Quebec",
+        "Ville": "Trois-Rivieres",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.5417,
+          46.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Les Aliments Saputo",
+        "Province": "Quebec",
+        "Ville": "Rimouski",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "",
+        "Graisses": "",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.5167,
+          48.4167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Les Aliments Saputo",
+        "Province": "Quebec",
+        "Ville": "Saguenay",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "",
+        "Graisses": "",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0667,
+          48.4167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Les Aliments Natrel",
+        "Province": "Quebec",
+        "Ville": "Drummondville",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "",
+        "Os": "",
+        "Graisses": "",
+        "Matieres seches": "",
+        "Restes de nourriture": "",
+        "Lait": "Lait",
+        "Creme": "Creme",
+        "Beurre": "Beurre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.4833,
+          45.8833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Les Aliments Maple Leaf",
+        "Province": "Quebec",
+        "Ville": "Brossard",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4833,
+          45.4167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Les Aliments Sunmaid",
+        "Province": "Quebec",
+        "Ville": "Granby",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7,
+          45.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Les Aliments Cargill",
+        "Province": "Quebec",
+        "Ville": "Victoriaville",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9667,
+          46.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Maple Leaf Foods",
+        "Province": "Ontario",
+        "Ville": "Cambridge",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5,
+          43.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Nestle",
+        "Province": "Ontario",
+        "Ville": "London",
+        "Coques de grains": "",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": "Beurre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2497,
+          42.9836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Kraft Heinz",
+        "Province": "Ontario",
+        "Ville": "Kingston",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5,
+          44.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Conagra Brands",
+        "Province": "Ontario",
+        "Ville": "Kitchener",
+        "Coques de grains": "Coques de grains",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5,
+          43.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Weston",
+        "Province": "Ontario",
+        "Ville": "Perth",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2333,
+          43.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Cargill",
+        "Province": "Ontario",
+        "Ville": "Brockville",
+        "Coques de grains": "",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "Creme",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.1667,
+          44.3167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Sunmaid",
+        "Province": "Ontario",
+        "Ville": "Barrie",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6667,
+          44.4167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Premier",
+        "Province": "Ontario",
+        "Ville": "Newmarket",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8667,
+          44.7167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Olymel",
+        "Province": "Ontario",
+        "Ville": "Belleville",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "Matieres seches",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5667,
+          44.0667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Agropur",
+        "Province": "Ontario",
+        "Ville": "Peterborough",
+        "Coques de grains": "Coques de grains",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "",
+        "Graisses": "",
+        "Matieres seches": "",
+        "Restes de nourriture": "",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.95,
+          44.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Maple Leaf Foods",
+        "Province": "Manitoba",
+        "Ville": "Brandon",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.95,
+          49.8333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Nestle",
+        "Province": "Manitoba",
+        "Ville": "Steinbach",
+        "Coques de grains": "",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": "Beurre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6833,
+          49.5167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Kraft Heinz",
+        "Province": "Manitoba",
+        "Ville": "Portage la Prairie",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3,
+          49.9833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Conagra Brands",
+        "Province": "Manitoba",
+        "Ville": "Selkirk",
+        "Coques de grains": "Coques de grains",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8833,
+          50.15
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Weston",
+        "Province": "Manitoba",
+        "Ville": "Morris",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3333,
+          49.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Cargill",
+        "Province": "Manitoba",
+        "Ville": "Winkler",
+        "Coques de grains": "",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "Creme",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5333,
+          49.1833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Sunmaid",
+        "Province": "Manitoba",
+        "Ville": "Altona",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4167,
+          49.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Premier",
+        "Province": "Manitoba",
+        "Ville": "Carman",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0667,
+          49.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Olymel",
+        "Province": "Manitoba",
+        "Ville": "Morden",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "Matieres seches",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1,
+          49.1917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Agropur",
+        "Province": "Manitoba",
+        "Ville": "Gladstone",
+        "Coques de grains": "Coques de grains",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "",
+        "Graisses": "",
+        "Matieres seches": "",
+        "Restes de nourriture": "",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5167,
+          49.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Maple Leaf Foods",
+        "Province": "Saskatchewan",
+        "Ville": "Saskatoon",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6667,
+          52.1333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Nestle",
+        "Province": "Saskatchewan",
+        "Ville": "Prince Albert",
+        "Coques de grains": "",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": "Beurre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.75,
+          53.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Kraft Heinz",
+        "Province": "Saskatchewan",
+        "Ville": "Moose Jaw",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.55,
+          50.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Conagra Brands",
+        "Province": "Saskatchewan",
+        "Ville": "Saskatoon",
+        "Coques de grains": "Coques de grains",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.3,
+          55.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Weston",
+        "Province": "Saskatchewan",
+        "Ville": "La Ronge",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7667,
+          52.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Cargill",
+        "Province": "Saskatchewan",
+        "Ville": "Warman",
+        "Coques de grains": "",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "Creme",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.9,
+          52.7667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Sunmaid",
+        "Province": "Saskatchewan",
+        "Ville": "Melfort",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7,
+          52.3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Premier",
+        "Province": "Saskatchewan",
+        "Ville": "Martensville",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.5167,
+          52.3167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Olymel",
+        "Province": "Saskatchewan",
+        "Ville": "Saskatoon",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "Matieres seches",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6667,
+          52.1333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Agropur",
+        "Province": "Saskatchewan",
+        "Ville": "Saskatoon",
+        "Coques de grains": "Coques de grains",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "",
+        "Graisses": "",
+        "Matieres seches": "",
+        "Restes de nourriture": "",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6667,
+          52.1333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "FPI",
+        "Province": "Terre neuve",
+        "Ville": "Anchor Point",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.3833,
+          47.8667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Nestle",
+        "Province": "Terre neuve",
+        "Ville": "St. John's",
+        "Coques de grains": "",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": "Beurre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.7167,
+          47.5667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Kraft Heinz",
+        "Province": "Terre neuve",
+        "Ville": "Burin",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.1667,
+          47.0667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Conagra Brands",
+        "Province": "Terre neuve",
+        "Ville": "Mount Pearl",
+        "Coques de grains": "Coques de grains",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.8,
+          47.5167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Weston",
+        "Province": "Terre neuve",
+        "Ville": "Clarenville",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.95,
+          48.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Cargill",
+        "Province": "Terre neuve",
+        "Ville": "Paradise",
+        "Coques de grains": "",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "Creme",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.8667,
+          47.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Sunmaid",
+        "Province": "Terre neuve",
+        "Ville": "Grand Bank",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.5667,
+          47.0667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Premier",
+        "Province": "Terre neuve",
+        "Ville": "Conception Bay South",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.2167,
+          47.5167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Olymel",
+        "Province": "Terre neuve",
+        "Ville": "Placentia",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "Matieres seches",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.3333,
+          47.0667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Agropur",
+        "Province": "Terre neuve",
+        "Ville": "Mount Pearl",
+        "Coques de grains": "Coques de grains",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "",
+        "Graisses": "",
+        "Matieres seches": "",
+        "Restes de nourriture": "",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.8,
+          47.5167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Nestle",
+        "Province": "Colombie britanique",
+        "Ville": "Burnaby",
+        "Coques de grains": "",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": "Beurre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9667,
+          49.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Kraft Heinz",
+        "Province": "Colombie britanique",
+        "Ville": "Coquitlam",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7833,
+          49.2667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Conagra Brands",
+        "Province": "Colombie britanique",
+        "Ville": "Richmond",
+        "Coques de grains": "Coques de grains",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1333,
+          49.1667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Weston",
+        "Province": "Colombie britanique",
+        "Ville": "Kamloops",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.3333,
+          50.6667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Cargill",
+        "Province": "Colombie britanique",
+        "Ville": "Courtenay",
+        "Coques de grains": "",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "Creme",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.9833,
+          49.6833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Sunmaid",
+        "Province": "Colombie britanique",
+        "Ville": "Kelowna",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.4833,
+          49.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Premier",
+        "Province": "Colombie britanique",
+        "Ville": "Langley",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.65,
+          49.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Olymel",
+        "Province": "Colombie britanique",
+        "Ville": "Delta",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "Matieres seches",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1,
+          49.0167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Agropur",
+        "Province": "Colombie britanique",
+        "Ville": "New Westminster",
+        "Coques de grains": "Coques de grains",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "",
+        "Graisses": "",
+        "Matieres seches": "",
+        "Restes de nourriture": "",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9167,
+          49.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Maple Leaf Foods",
+        "Province": "Colombie britanique",
+        "Ville": "Merritt",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.7667,
+          50.1167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Maple Leaf Foods",
+        "Province": "Alberta",
+        "Ville": "Edmonton",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.5,
+          53.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Nestle",
+        "Province": "Alberta",
+        "Ville": "Camrose",
+        "Coques de grains": "",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": "Beurre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.8667,
+          53.0167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Kraft Heinz",
+        "Province": "Alberta",
+        "Ville": "Calgary",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.0833,
+          51.0833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Conagra Brands",
+        "Province": "Alberta",
+        "Ville": "Lloydminster",
+        "Coques de grains": "Coques de grains",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110,
+          53.2667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Weston",
+        "Province": "Alberta",
+        "Ville": "Banff",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5722,
+          51.175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Cargill",
+        "Province": "Alberta",
+        "Ville": "Regina",
+        "Coques de grains": "",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "Creme",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6,
+          50.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Sunmaid",
+        "Province": "Alberta",
+        "Ville": "Peace River",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2833,
+          56.2333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Premier",
+        "Province": "Alberta",
+        "Ville": "Athabasca",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.2667,
+          54.7167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Olymel",
+        "Province": "Alberta",
+        "Ville": "Red Deer",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "Matieres seches",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.8,
+          52.2667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Agropur",
+        "Province": "Alberta",
+        "Ville": "Sherwood Park",
+        "Coques de grains": "Coques de grains",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "",
+        "Graisses": "",
+        "Matieres seches": "",
+        "Restes de nourriture": "",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.3,
+          53.5167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Chilkat Foods",
+        "Province": "Yukon",
+        "Ville": "Whitehorse",
+        "Coques de grains": "",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.05,
+          60.7167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Northern Grains",
+        "Province": "Yukon",
+        "Ville": "Whitehorse",
+        "Coques de grains": "Coques de grains",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "",
+        "Os": "",
+        "Graisses": "",
+        "Matieres seches": "Matieres seches",
+        "Restes de nourriture": "",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.05,
+          60.7167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "YK Delta Farms",
+        "Province": "Yukon",
+        "Ville": "Teslin",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.75,
+          60.175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "North Star Dairy",
+        "Province": "Yukon",
+        "Ville": "Mayo",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "",
+        "Os": "",
+        "Graisses": "",
+        "Matieres seches": "",
+        "Restes de nourriture": "",
+        "Lait": "Lait",
+        "Creme": "Creme",
+        "Beurre": "Beurre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.9,
+          63.5833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Gold Rush Meats",
+        "Province": "Yukon",
+        "Ville": "Dawson City",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.4667,
+          64.0667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Klondike Kettle Corn",
+        "Province": "Yukon",
+        "Ville": "Whitehorse",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "",
+        "Os": "",
+        "Graisses": "",
+        "Matieres seches": "Matieres seches",
+        "Restes de nourriture": "",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.05,
+          60.7167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Northern Produce",
+        "Province": "Yukon",
+        "Ville": "Whitehorse",
+        "Coques de grains": "",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "",
+        "Graisses": "",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.05,
+          60.7167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Arctic Health Foods",
+        "Province": "Yukon",
+        "Ville": "Teslin",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "",
+        "Graisses": "",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.7833,
+          60.175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Sweet Home Mayo",
+        "Province": "Yukon",
+        "Ville": "Mayo",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "",
+        "Os": "",
+        "Graisses": "",
+        "Matieres seches": "Matieres seches",
+        "Restes de nourriture": "",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.8667,
+          63.5833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Wild North Foods",
+        "Province": "Yukon",
+        "Ville": "Dawson City",
+        "Coques de grains": "",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "",
+        "Graisses": "",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.4167,
+          64.0667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Maple Leaf Foods",
+        "Province": "Nouveau brunswick",
+        "Ville": "Fredericton",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.6667,
+          45.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Nestle",
+        "Province": "Nouveau brunswick",
+        "Ville": "Oromocto",
+        "Coques de grains": "",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": "Beurre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5,
+          45.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Kraft Heinz",
+        "Province": "Nouveau brunswick",
+        "Ville": "Moncton",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.7667,
+          46.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Conagra Brands",
+        "Province": "Nouveau brunswick",
+        "Ville": "Dieppe",
+        "Coques de grains": "Coques de grains",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.7667,
+          46.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Weston",
+        "Province": "Nouveau brunswick",
+        "Ville": "Bathurst",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.65,
+          47.6333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Cargill",
+        "Province": "Nouveau brunswick",
+        "Ville": "Miramichi",
+        "Coques de grains": "",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "Creme",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.4667,
+          47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Sunmaid",
+        "Province": "Nouveau brunswick",
+        "Ville": "Edmundston",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.3167,
+          47.375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Premier",
+        "Province": "Nouveau brunswick",
+        "Ville": "Dieppe",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.7667,
+          46.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Olymel",
+        "Province": "Nouveau brunswick",
+        "Ville": "Lincoln",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "Matieres seches",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.3333,
+          45.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Agropur",
+        "Province": "Nouveau brunswick",
+        "Ville": "Fredericton",
+        "Coques de grains": "Coques de grains",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "",
+        "Graisses": "",
+        "Matieres seches": "",
+        "Restes de nourriture": "",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.6667,
+          45.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Arctic Foods",
+        "Province": "Nunavut",
+        "Ville": "Baker Lake",
+        "Coques de grains": "",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": "Beurre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0167,
+          64.3167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "North Star Foods",
+        "Province": "Nunavut",
+        "Ville": "Pond Inlet",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9667,
+          72.6833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Polar Provisions",
+        "Province": "Nunavut",
+        "Ville": "Kugluktuk",
+        "Coques de grains": "Coques de grains",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "",
+        "Graisses": "",
+        "Matieres seches": "",
+        "Restes de nourriture": "",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.0833,
+          67.8167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Arctic Choice",
+        "Province": "Nunavut",
+        "Ville": "Cambridge Bay",
+        "Coques de grains": "",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.054,
+          69.1147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Northern Harvest",
+        "Province": "Nunavut",
+        "Ville": "Tuktoyaktuk",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "",
+        "Graisses": "",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "Lait",
+        "Creme": "Creme",
+        "Beurre": "Beurre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.032,
+          69.4539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Arctic Fresh",
+        "Province": "Nunavut",
+        "Ville": "Sachs Harbour",
+        "Coques de grains": "",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "",
+        "Graisses": "",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.243,
+          71.9983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Arctic Bites",
+        "Province": "Nunavut",
+        "Ville": "Arctic Bay",
+        "Coques de grains": "Coques de grains",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0599,
+          73.0269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Arctic Delights",
+        "Province": "Nunavut",
+        "Ville": "Paulatuk",
+        "Coques de grains": "",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.745,
+          69.3653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Arctic Eats",
+        "Province": "Nunavut",
+        "Ville": "Sachs Harbour",
+        "Coques de grains": "Coques de grains",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "",
+        "Graisses": "",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.243,
+          71.9983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Arctic Harvest",
+        "Province": "Nunavut",
+        "Ville": "Kugluktuk",
+        "Coques de grains": "",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.097,
+          67.8245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Arctic Foods",
+        "Province": "Territoire du Nord Ouest",
+        "Ville": "Yellowknife",
+        "Coques de grains": "Coques de grains",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "",
+        "Graisses": "",
+        "Matieres seches": "",
+        "Restes de nourriture": "",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.373,
+          62.4539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Northern Valley Food",
+        "Province": "Territoire du Nord Ouest",
+        "Ville": "Watson Lake",
+        "Coques de grains": "",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "Creme",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.798,
+          60.1167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "North Star Foods",
+        "Province": "Territoire du Nord Ouest",
+        "Ville": "Fort Smith",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.885,
+          60.0099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Northern Food Services",
+        "Province": "Territoire du Nord Ouest",
+        "Ville": "Inuvik",
+        "Coques de grains": "Coques de grains",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "",
+        "Graisses": "",
+        "Matieres seches": "",
+        "Restes de nourriture": "",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.722,
+          68.3606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Arctic Food Distributors",
+        "Province": "Territoire du Nord Ouest",
+        "Ville": "Tuktoyaktuk",
+        "Coques de grains": "",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "Creme",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.032,
+          69.4539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Northern Food Solutions",
+        "Province": "Territoire du Nord Ouest",
+        "Ville": "Hay River",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.786,
+          60.8162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Arctic Choice Foods",
+        "Province": "Territoire du Nord Ouest",
+        "Ville": "Norman Wells",
+        "Coques de grains": "Coques de grains",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "",
+        "Graisses": "",
+        "Matieres seches": "",
+        "Restes de nourriture": "",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -126.83,
+          65.2847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Northern Harvest",
+        "Province": "Territoire du Nord Ouest",
+        "Ville": "Inuvik",
+        "Coques de grains": "",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "Creme",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.722,
+          68.3606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Arctic Co-Op",
+        "Province": "Territoire du Nord Ouest",
+        "Ville": "Yellowknife",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.373,
+          62.4539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Northern Lights Foods",
+        "Province": "Territoire du Nord Ouest",
+        "Ville": "Fort Liard",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.466,
+          60.2333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Cavendish Farms",
+        "Province": "Ile du prince Edouard",
+        "Ville": "Charlottetown",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1313,
+          46.2396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Olymel",
+        "Province": "Ile du prince Edouard",
+        "Ville": "Summerside",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "Matieres seches",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.7868,
+          46.3913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Les Aliments Maple Leaf",
+        "Province": "Ile du prince Edouard",
+        "Ville": "Kensington",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.11,
+          46.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Les Aliments Natrel",
+        "Province": "Ile du prince Edouard",
+        "Ville": "Montague",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "",
+        "Os": "",
+        "Graisses": "",
+        "Matieres seches": "",
+        "Restes de nourriture": "",
+        "Lait": "Lait",
+        "Creme": "Creme",
+        "Beurre": "Beurre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.6333,
+          46.2507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Les Aliments Premier",
+        "Province": "Ile du prince Edouard",
+        "Ville": "Souris",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.1167,
+          46.2333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Les Aliments Saputo",
+        "Province": "Ile du prince Edouard",
+        "Ville": "Georgetown",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "",
+        "Graisses": "",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.5333,
+          46.2333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Les Aliments Cargill",
+        "Province": "Ile du prince Edouard",
+        "Ville": "Tignish",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.7333,
+          46.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Les Aliments Sunmaid",
+        "Province": "Ile du prince Edouard",
+        "Ville": "Cornwall",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.2667,
+          46.2333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Les Aliments Olymel",
+        "Province": "Ile du prince Edouard",
+        "Ville": "Stratford",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "Matieres seches",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1379,
+          46.2779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Agropur",
+        "Province": "Ile du prince Edouard",
+        "Ville": "Crapaud",
+        "Coques de grains": "Coques de grains",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "",
+        "Graisses": "",
+        "Matieres seches": "",
+        "Restes de nourriture": "",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1492,
+          46.2308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Saputo",
+        "Province": "Nouvelle ecosse",
+        "Ville": "Halifax",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "",
+        "Graisses": "",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5752,
+          44.6488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Maple Leaf Foods",
+        "Province": "Nouvelle ecosse",
+        "Ville": "Truro",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.2667,
+          45.3667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Nestle",
+        "Province": "Nouvelle ecosse",
+        "Ville": "Moncton",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.7782,
+          46.0878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Kraft Heinz",
+        "Province": "Nouvelle ecosse",
+        "Ville": "Windsor",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.1417,
+          44.9833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Conagra Brands",
+        "Province": "Nouvelle ecosse",
+        "Ville": "Saint John",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.0603,
+          45.2733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Cargill",
+        "Province": "Nouvelle ecosse",
+        "Ville": "Dartmouth",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57,
+          44.67
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Sunmaid",
+        "Province": "Nouvelle ecosse",
+        "Ville": "New Glasgow",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.6489,
+          45.583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Premier",
+        "Province": "Nouvelle ecosse",
+        "Ville": "Wolfville",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.365,
+          45.0942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Olymel",
+        "Province": "Nouvelle ecosse",
+        "Ville": "Yarmouth",
+        "Coques de grains": "",
+        "Pulpes de fruits": "",
+        "Epluchures de legumes": "",
+        "Os": "Os",
+        "Graisses": "Graisses",
+        "Matieres seches": "Matieres seches",
+        "Restes de nourriture": "Restes de nourriture",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1109,
+          43.836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Entreprise": "Agropur",
+        "Province": "Nouvelle ecosse",
+        "Ville": "Amherst",
+        "Coques de grains": "Coques de grains",
+        "Pulpes de fruits": "Pulpes de fruits",
+        "Epluchures de legumes": "Epluchures de legumes",
+        "Os": "",
+        "Graisses": "",
+        "Matieres seches": "",
+        "Restes de nourriture": "",
+        "Lait": "",
+        "Creme": "",
+        "Beurre": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.2128,
+          45.8495
+        ]
+      }
+    }
+  ]
+}
